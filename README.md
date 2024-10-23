@@ -7,7 +7,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  Software Engineering student at UTFPR - Dois Vizinhos. Passionate about exploring new technologies and creating efficient solutions. Currently working as a Fullstack Developer with a focus on RPA. Constantly learning about Playwright, Java, Python, and Scala.
+  I'm a Software Engineering student at UTFPR - Dois Vizinhos, passionate about exploring new technologies and developing innovative software solutions. I currently work as a Fullstack Developer with a focus on RPA (Robotic Process Automation). I'm continuously expanding my skills, especially in Playwright, Java, Python, and Scala.
 </p>
 
 ---
