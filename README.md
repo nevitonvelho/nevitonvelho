@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">About Me</h2>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h3 align="left">My Stats :</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h3 align="left">Stats</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<h2 align="left">Social Media</h2>
+<h3 align="left">Social Media</h3>
 
 ###
 
@@ -65,11 +65,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nevitonvelho/nevitonvelho/output/snake.svg" alt="Snake animation" />
 
 ###
